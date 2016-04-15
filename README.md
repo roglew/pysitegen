@@ -31,7 +31,7 @@ base.html
 ```
 <html>
   <head>
-    <title>{% block title %}Example Site{% endbloc %}</title>
+    <title>{% block title %}Example Site{% endblock %}</title>
   </head>
   <body>
     {% block body %}{% endblock %}
